@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Colaborers](#colaborers)
 
 ## General info
 This is a website project for the nonprofit organization "South Ann Concerned Neighbords."
